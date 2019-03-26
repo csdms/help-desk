@@ -2,7 +2,7 @@
 
 The **CSDMS Help Desk**
 is where you can get questions answered
-about products and services provided by the
+about products and services supplied by the
 [Community Surface Dynamics Modeling System](https://csdms.colorado.edu).
 The Help Desk provides tracking and an audit trail for your questions.
 Plus, the responses are searchable,
