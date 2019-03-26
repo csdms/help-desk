@@ -1,15 +1,16 @@
 # The CSDMS Help Desk
 
 The **CSDMS Help Desk**
-is where you can get questions
+is where you can get questions answered
 about products and services provided by the
-[Community Surface Dynamics Modeling System](https://csdms.colorado.edu)
-answered by CSDMS Integration Facility (CIF) staff.
+[Community Surface Dynamics Modeling System](https://csdms.colorado.edu).
 The Help Desk provides tracking and an audit trail for your questions.
 Plus, the responses are searchable,
-so the question you ask may help another CSDMS member in the future.
+so the questions you ask may help another CSDMS member in the future.
 
-Here's how it works.
+## How does it work?
+
+Get your question answered in `N=5` steps.
 
 1. If you haven't already done so, sign up for GitHub: https://github.com/join.
 
@@ -17,11 +18,18 @@ Here's how it works.
 
 1. Select the **New Issue** button.
 
-1. Ask us a question. Provide a brief title, then give more detail in space below. You can use text formatting, links, and images in your description.
+1. Ask us a question. Provide a brief title, then give more detail in the space below. You can use text formatting, web links, and images in your description.
 
-1. When you're finished, select the **Submit New Issue** button. A CIF staff member will respond to your question. You'll be notified by email (through your GitHub account) of activity on your question.
+1. When you're finished, select the **Submit New Issue** button. A CSDMS staff member will respond to your question. You'll be notified by email (through your GitHub account) of activity on your question.
 
 Help us build a public knowledge base for our community!
+
+## Notes
+
+* See a list of [all Help Desk questions](https://github.com/csdms/help-desk/issues?utf8=%E2%9C%93&q=).
+* Use [advanced search syntax](https://help.github.com/en/articles/searching-issues-and-pull-requests) to structure searches. For example, find [all issues where "kettner" is mentioned in the comments](https://github.com/csdms/help-desk/issues?utf8=%E2%9C%93&q=kettner+in%3Acomments).
+
+---
 
 CSDMS is supported by the National Science Foundation
 under Grant No. 1831623, *Community Facility Support:
