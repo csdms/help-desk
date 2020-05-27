@@ -18,7 +18,7 @@ Get your question answered in `N=5` steps.
 
 1. Select the **New Issue** button.
 
-1. Ask us a question. Provide a brief title, then give more detail in the space below. You can use text formatting, web links, and images in your description.
+1. Ask us a question. Provide a brief title, then give more detail in the space below. You can use text formatting, web links, and images in your description. ([Learn more](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) about text formatting on GitHub.)
 
 1. When you're finished, select the **Submit New Issue** button. A CSDMS staff member will respond to your question. You'll be notified by email (through your GitHub account) of activity on your question.
 
