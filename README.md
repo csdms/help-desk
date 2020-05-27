@@ -26,8 +26,10 @@ Help us build a public knowledge base for our community!
 
 ## Notes
 
-* See a list of [all Help Desk questions](https://github.com/csdms/help-desk/issues?utf8=%E2%9C%93&q=).
-* Use [advanced search syntax](https://help.github.com/en/articles/searching-issues-and-pull-requests) to structure searches. For example, find [all issues where "kettner" is mentioned in the comments](https://github.com/csdms/help-desk/issues?utf8=%E2%9C%93&q=kettner+in%3Acomments).
+* See a list of [all Help Desk questions](https://github.com/csdms/help-desk/issues?utf8=%E2%9C%93&q=)
+* See only [open questions](https://github.com/csdms/help-desk/issues)
+* See only [closed questions](https://github.com/csdms/help-desk/issues?q=is%3Aissue+is%3Aclosed)
+* Use [advanced search syntax](https://help.github.com/en/articles/searching-issues-and-pull-requests) to structure searches. For example, find [all issues where "kettner" is mentioned in the comments](https://github.com/csdms/help-desk/issues?utf8=%E2%9C%93&q=kettner+in%3Acomments)
 
 ---
 
