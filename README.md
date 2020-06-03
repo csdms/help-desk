@@ -16,7 +16,7 @@ Get your question answered in `N=5` steps.
 
 1. Go to https://github.com/csdms/help-desk/issues (or select the **Issues** tab above).
 
-1. Select the **New Issue** button.
+1. Select the **New Issue** button, then **Help Desk question**.
 
 1. Ask us a question. Provide a brief title, then give more detail in the space below. You can use text formatting, web links, and images in your description. ([Learn more](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) about text formatting on GitHub.)
 
