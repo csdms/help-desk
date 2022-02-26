@@ -14,4 +14,4 @@ Thank you for signing up to use the CSDMS JupyterHub. Please provide your CSDMS 
 *Describe why you're signing up for an account:*
 
 
-Once you've completed this step, you'll typically get an approval within one business day.
+Once you've completed this step, you'll typically get approval within one business day.
