@@ -1,26 +1,21 @@
 # The CSDMS Help Desk
 
 The **CSDMS Help Desk**
-is where you can get questions answered
-about products and services supplied by the
+is where you can get answers for questions about
 [Community Surface Dynamics Modeling System](https://csdms.colorado.edu).
+products and services.
 The Help Desk provides tracking and an audit trail for your questions.
 Plus, the responses are searchable,
 so the questions you ask may help another CSDMS member in the future.
 
-## How does it work?
+The Help Desk uses [GitHub](https://github.com),
+so if you don't yet have an account,
+please [sign up](https://github.com/join).
 
-Get your question answered in `N=5` steps.
+<a href="https://github.com/csdms/help-desk/issues/new/choose" class="button">Ask a question</a>
 
-1. If you haven't already done so, sign up for GitHub: https://github.com/join.
-
-1. Go to https://github.com/csdms/help-desk/issues (or select the **Issues** tab above).
-
-1. Select the **New Issue** button, then **Help Desk question**.
-
-1. Ask us a question. Provide a brief title, then give more detail in the space below. You can use text formatting, web links, and images in your description. ([Learn more](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) about text formatting on GitHub.)
-
-1. When you're finished, select the **Submit New Issue** button. A CSDMS staff member will respond to your question. You'll be notified by email (through your GitHub account) of activity on your question.
+ When asking a question, please provide a brief title, then give more detail in the text area below. You can use text formatting, web links, and images in your description. ([Learn more](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) about text formatting on GitHub.)
+A CSDMS staff member will respond to your question. You'll be notified by email (through your GitHub account) of activity on your question.
 
 Help us build a public knowledge base for our community!
 
