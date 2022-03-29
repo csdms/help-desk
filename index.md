@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# The CSDMS Help Desk
 
-You can use the [editor on GitHub](https://github.com/csdms/help-desk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The **CSDMS Help Desk**
+is where you can get questions answered
+about products and services supplied by the
+[Community Surface Dynamics Modeling System](https://csdms.colorado.edu).
+The Help Desk provides tracking and an audit trail for your questions.
+Plus, the responses are searchable,
+so the questions you ask may help another CSDMS member in the future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How does it work?
 
-### Markdown
+Get your question answered in `N=5` steps.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. If you haven't already done so, sign up for GitHub: https://github.com/join.
 
-```markdown
-Syntax highlighted code block
+1. Go to https://github.com/csdms/help-desk/issues (or select the **Issues** tab above).
 
-# Header 1
-## Header 2
-### Header 3
+1. Select the **New Issue** button, then **Help Desk question**.
 
-- Bulleted
-- List
+1. Ask us a question. Provide a brief title, then give more detail in the space below. You can use text formatting, web links, and images in your description. ([Learn more](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) about text formatting on GitHub.)
 
-1. Numbered
-2. List
+1. When you're finished, select the **Submit New Issue** button. A CSDMS staff member will respond to your question. You'll be notified by email (through your GitHub account) of activity on your question.
 
-**Bold** and _Italic_ and `Code` text
+Help us build a public knowledge base for our community!
 
-[Link](url) and ![Image](src)
-```
+## Notes
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* See a list of [all Help Desk questions](https://github.com/csdms/help-desk/issues?utf8=%E2%9C%93&q=)
+* See only [open questions](https://github.com/csdms/help-desk/issues)
+* See only [closed questions](https://github.com/csdms/help-desk/issues?q=is%3Aissue+is%3Aclosed)
+* Use [advanced search syntax](https://help.github.com/en/articles/searching-issues-and-pull-requests) to structure searches. For example, find [all issues where "kettner" is mentioned in the comments](https://github.com/csdms/help-desk/issues?utf8=%E2%9C%93&q=kettner+in%3Acomments)
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/csdms/help-desk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+CSDMS is supported by the National Science Foundation
+under Grant No. 1831623, *Community Facility Support:
+The Community Surface Dynamics Modeling System (CSDMS)*.
