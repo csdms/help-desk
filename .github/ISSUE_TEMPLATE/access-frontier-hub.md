@@ -7,10 +7,8 @@ assignees: mdpiper
 
 ---
 
-Thank you for your interest in the OpenEarthscape *frontier* computational JupyterHub,
-[frontier.openearthscape.org](https://frontier.openearthscape.org)
-Please provide your CSDMS username and a brief description (a few sentences are fine)
-of the project you'd like to run on *frontier*.
+Thank you for your interest in the OpenEarthscape *frontier* computational JupyterHub, https://frontier.openearthscape.org.
+Please provide your CSDMS username and a brief description (a few sentences are fine) of the project you'd like to run on *frontier*.
 
 *CSDMS username:*
 

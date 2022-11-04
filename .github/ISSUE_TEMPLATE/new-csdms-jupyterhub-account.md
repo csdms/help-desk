@@ -7,10 +7,8 @@ assignees: mdpiper
 
 ---
 
-Thank you for signing up to use the OpenEarthscape JupyterHub,
-[jupyter.openearthscape.org](https://jupyter.openearthscape.org).
-Please provide your CSDMS username and a brief description
-of why you're signing up (a sentence or two is fine).
+Thank you for signing up to use the OpenEarthscape JupyterHub, https://jupyter.openearthscape.org.
+Please provide your CSDMS username and a brief description of why you're signing up (a sentence or two is fine).
 
 *CSDMS username:*
 
