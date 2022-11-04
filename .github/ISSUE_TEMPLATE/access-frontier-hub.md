@@ -16,5 +16,4 @@ Please provide your CSDMS username and a brief description (a few sentences are 
 *Project description:*
 
 
-Once you've completed this step, you'll be contacted
-by a CSDMS RSE within about 1-2 business days.
+Once you've completed this step, you'll be contacted by a CSDMS RSE within about 1-2 business days.
