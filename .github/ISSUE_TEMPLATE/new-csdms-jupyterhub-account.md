@@ -7,9 +7,10 @@ assignees: mdpiper
 
 ---
 
-Thank you for signing up to use the CSDMS JupyterHub. Please provide your CSDMS username and a brief description of why you're signing up (a sentence is fine).
+Thank you for signing up to use the CSDMS JupyterHub. Please provide your CSDMS username and a brief description of why you're signing up (a sentence or two is fine).
 
 *CSDMS username:*
+
 
 *Describe why you're signing up for an account:*
 
