@@ -35,9 +35,7 @@ If you'd like:
 
 ---
 
-CSDMS is supported by the National Science Foundation
-under Grant No. 1831623, *Community Facility Support:
-The Community Surface Dynamics Modeling System (CSDMS)*.
+CSDMS is supported with funding through the U.S. National Science Foundation.
 
 
 <!-- Links -->
