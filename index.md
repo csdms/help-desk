@@ -26,6 +26,13 @@ Help us build a public knowledge base for our community!
 * See only [closed questions][closed]
 * Use [advanced search syntax][advanced] to structure searches. For example, find [all issues where "kettner" is mentioned in the comments][kettner]
 
+## Other options for help
+
+If you'd like:
+* live help (through Zoom) from a CSDMS research software engineer (RSE), see [CSDMS Office Hours](https://csdms.colorado.edu/wiki/OfficeHours).
+* to ask a question or discuss an issue with the wider CSDMS community, try the [CSDMS Forum](https://github.com/csdms/project/discussions).
+* a CSDMS RSE to visit your department to talk about geoscientific software development, check out the [CSDMS Roadshow](https://csdms.colorado.edu/wiki/Roadshows).
+
 ---
 
 CSDMS is supported by the National Science Foundation
