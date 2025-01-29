@@ -49,5 +49,5 @@ CSDMS is supported with funding through the U.S. National Science Foundation.
 [advanced]: https://help.github.com/en/articles/searching-issues-and-pull-requests
 [kettner]: https://github.com/csdms/help-desk/issues?utf8=%E2%9C%93&q=kettner+in%3Acomments
 [office-hours]: https://csdms.colorado.edu/wiki/OfficeHours
-[forum]: https://forum.github.io
+[forum]: https://forum.csdms.io
 [roadshow]: https://csdms.colorado.edu/wiki/Roadshows
