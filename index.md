@@ -29,9 +29,9 @@ Help us build a public knowledge base for our community!
 ## Other options for help
 
 If you'd like:
-* live help (through Zoom) from a CSDMS research software engineer (RSE), see [CSDMS Office Hours](https://csdms.colorado.edu/wiki/OfficeHours).
-* to ask a question or discuss an issue with the wider CSDMS community, try the [CSDMS Forum](https://forum.github.io).
-* a CSDMS RSE to visit your department to talk about geoscientific software development, check out the [CSDMS Roadshow](https://csdms.colorado.edu/wiki/Roadshows).
+* live help (through Zoom) from a CSDMS research software engineer (RSE), see [CSDMS Office Hours][office-hours].
+* to ask a question or discuss an issue with the wider CSDMS community, try the [CSDMS Forum][forum].
+* a CSDMS RSE to visit your department to talk about geoscientific software development, check out the [CSDMS Roadshow][roadshow].
 
 ---
 
@@ -48,3 +48,6 @@ CSDMS is supported with funding through the U.S. National Science Foundation.
 [closed]: https://github.com/csdms/help-desk/issues?q=is%3Aissue+is%3Aclosed
 [advanced]: https://help.github.com/en/articles/searching-issues-and-pull-requests
 [kettner]: https://github.com/csdms/help-desk/issues?utf8=%E2%9C%93&q=kettner+in%3Acomments
+[office-hours]: https://csdms.colorado.edu/wiki/OfficeHours
+[forum]: https://forum.github.io
+[roadshow]: https://csdms.colorado.edu/wiki/Roadshows
